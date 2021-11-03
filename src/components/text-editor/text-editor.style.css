@@ -1,0 +1,14 @@
+.text-editor {
+    margin: 25px;
+    width: 100%;
+    max-width: 1049px;
+    background-color: white;
+    box-shadow:
+        0.3px 0.3px 0.2px rgba(0, 0, 0, 0.112),
+        0.7px 0.7px 0.6px rgba(0, 0, 0, 0.125),
+        1.3px 1.3px 1.1px rgba(0, 0, 0, 0.134),
+        2.2px 2.2px 1.9px rgba(0, 0, 0, 0.14),
+        3.9px 3.9px 3.7px rgba(0, 0, 0, 0.145),
+        12px 12px 11px rgba(0, 0, 0, 0.15)
+        ;
+}
