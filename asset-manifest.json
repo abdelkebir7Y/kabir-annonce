@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.9e119f29.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.7babf5bc.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.7babf5bc.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.d00d41f8.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.d00d41f8.js.map",
-    "static/js/2.5ef78bf4.chunk.js": "/react-gh-pages/static/js/2.5ef78bf4.chunk.js",
-    "static/js/2.5ef78bf4.chunk.js.map": "/react-gh-pages/static/js/2.5ef78bf4.chunk.js.map",
-    "static/js/3.dc34ec9a.chunk.js": "/react-gh-pages/static/js/3.dc34ec9a.chunk.js",
-    "static/js/3.dc34ec9a.chunk.js.map": "/react-gh-pages/static/js/3.dc34ec9a.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.9e119f29.chunk.css.map": "/react-gh-pages/static/css/main.9e119f29.chunk.css.map",
-    "static/js/2.5ef78bf4.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.5ef78bf4.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/react-gh-pages/static/media/background.9805daa4.png",
-    "static/media/border1.7869244b.png": "/react-gh-pages/static/media/border1.7869244b.png"
+    "main.css": "/kabir-annonce/static/css/main.18dfa7a5.chunk.css",
+    "main.js": "/kabir-annonce/static/js/main.7babf5bc.chunk.js",
+    "main.js.map": "/kabir-annonce/static/js/main.7babf5bc.chunk.js.map",
+    "runtime-main.js": "/kabir-annonce/static/js/runtime-main.36b1f655.js",
+    "runtime-main.js.map": "/kabir-annonce/static/js/runtime-main.36b1f655.js.map",
+    "static/js/2.5ef78bf4.chunk.js": "/kabir-annonce/static/js/2.5ef78bf4.chunk.js",
+    "static/js/2.5ef78bf4.chunk.js.map": "/kabir-annonce/static/js/2.5ef78bf4.chunk.js.map",
+    "static/js/3.dc34ec9a.chunk.js": "/kabir-annonce/static/js/3.dc34ec9a.chunk.js",
+    "static/js/3.dc34ec9a.chunk.js.map": "/kabir-annonce/static/js/3.dc34ec9a.chunk.js.map",
+    "index.html": "/kabir-annonce/index.html",
+    "static/css/main.18dfa7a5.chunk.css.map": "/kabir-annonce/static/css/main.18dfa7a5.chunk.css.map",
+    "static/js/2.5ef78bf4.chunk.js.LICENSE.txt": "/kabir-annonce/static/js/2.5ef78bf4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/kabir-annonce/static/media/background.9805daa4.png",
+    "static/media/border1.7869244b.png": "/kabir-annonce/static/media/border1.7869244b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d00d41f8.js",
+    "static/js/runtime-main.36b1f655.js",
     "static/js/2.5ef78bf4.chunk.js",
-    "static/css/main.9e119f29.chunk.css",
+    "static/css/main.18dfa7a5.chunk.css",
     "static/js/main.7babf5bc.chunk.js"
   ]
 }
