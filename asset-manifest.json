@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/kabir-annonce/static/css/main.18dfa7a5.chunk.css",
-    "main.js": "/kabir-annonce/static/js/main.7babf5bc.chunk.js",
-    "main.js.map": "/kabir-annonce/static/js/main.7babf5bc.chunk.js.map",
-    "runtime-main.js": "/kabir-annonce/static/js/runtime-main.36b1f655.js",
-    "runtime-main.js.map": "/kabir-annonce/static/js/runtime-main.36b1f655.js.map",
-    "static/js/2.5ef78bf4.chunk.js": "/kabir-annonce/static/js/2.5ef78bf4.chunk.js",
-    "static/js/2.5ef78bf4.chunk.js.map": "/kabir-annonce/static/js/2.5ef78bf4.chunk.js.map",
-    "static/js/3.dc34ec9a.chunk.js": "/kabir-annonce/static/js/3.dc34ec9a.chunk.js",
-    "static/js/3.dc34ec9a.chunk.js.map": "/kabir-annonce/static/js/3.dc34ec9a.chunk.js.map",
+    "main.css": "/kabir-annonce/static/css/main.4cb9e063.chunk.css",
+    "main.js": "/kabir-annonce/static/js/main.978a7b59.chunk.js",
+    "main.js.map": "/kabir-annonce/static/js/main.978a7b59.chunk.js.map",
+    "runtime-main.js": "/kabir-annonce/static/js/runtime-main.e432092e.js",
+    "runtime-main.js.map": "/kabir-annonce/static/js/runtime-main.e432092e.js.map",
+    "static/js/2.3335d0ce.chunk.js": "/kabir-annonce/static/js/2.3335d0ce.chunk.js",
+    "static/js/2.3335d0ce.chunk.js.map": "/kabir-annonce/static/js/2.3335d0ce.chunk.js.map",
+    "static/js/3.c3a903d2.chunk.js": "/kabir-annonce/static/js/3.c3a903d2.chunk.js",
+    "static/js/3.c3a903d2.chunk.js.map": "/kabir-annonce/static/js/3.c3a903d2.chunk.js.map",
     "index.html": "/kabir-annonce/index.html",
-    "static/css/main.18dfa7a5.chunk.css.map": "/kabir-annonce/static/css/main.18dfa7a5.chunk.css.map",
-    "static/js/2.5ef78bf4.chunk.js.LICENSE.txt": "/kabir-annonce/static/js/2.5ef78bf4.chunk.js.LICENSE.txt",
+    "static/css/main.4cb9e063.chunk.css.map": "/kabir-annonce/static/css/main.4cb9e063.chunk.css.map",
+    "static/js/2.3335d0ce.chunk.js.LICENSE.txt": "/kabir-annonce/static/js/2.3335d0ce.chunk.js.LICENSE.txt",
     "static/media/App.css": "/kabir-annonce/static/media/background.9805daa4.png",
     "static/media/border1.7869244b.png": "/kabir-annonce/static/media/border1.7869244b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.36b1f655.js",
-    "static/js/2.5ef78bf4.chunk.js",
-    "static/css/main.18dfa7a5.chunk.css",
-    "static/js/main.7babf5bc.chunk.js"
+    "static/js/runtime-main.e432092e.js",
+    "static/js/2.3335d0ce.chunk.js",
+    "static/css/main.4cb9e063.chunk.css",
+    "static/js/main.978a7b59.chunk.js"
   ]
 }
