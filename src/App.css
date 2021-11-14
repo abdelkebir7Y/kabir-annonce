@@ -10,3 +10,21 @@ body {
   align-items: center;
   flex-direction: column;
 }
+
+.App .export-image {
+  padding: 16px 45px;
+  margin-top: 12.5px;
+  z-index: 444;
+  font-size: 1.2em;
+  color: white;
+  background-color: #4aa2a7;
+  border: 2px solid white;
+  box-shadow: 0.5rem 0.5rem 0.35rem #585858
+}
+
+.App .export-image:hover {
+  color: #4aa2a7;
+  background-color: white;
+  border: 2px solid #4aa2a7;
+  cursor: pointer;
+}

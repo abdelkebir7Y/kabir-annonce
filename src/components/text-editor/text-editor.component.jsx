@@ -6,7 +6,8 @@ const TextEditor = ({content , setContent}) => {
 	
 	
 	const config = {
-		readonly: false // all options from https://xdsoft.net/jodit/doc/
+		readonly: false,
+        "buttons": "bold,italic,underline,strikethrough,eraser,superscript,subscript,ul,ol,indent,outdent,left,right , center , justify ,font,fontsize,paragraph,brush,image,cut,copy,paste,selectall,hr,table,link,symbol,undo,redo,find,fullsize,preview,print"
 	}
     return(
         <div className='text-editor'>

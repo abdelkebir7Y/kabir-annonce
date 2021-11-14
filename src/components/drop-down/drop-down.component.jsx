@@ -1,7 +1,7 @@
 import {FiLink} from 'react-icons/fi'
 import './drop-down.style.css';
 
-const DropDown = ({top , dropDown ,setBackgroundUrl,backgroundUrl ,setColorOpacity , colorOpacity ,setBackgroundOpacity, backgroundOpacity}) => {
+const DropDown = ({top , dropDown ,setBackgroundUrl,backgroundUrl ,setColorOpacity , colorOpacity ,setBackgroundOpacity, backgroundOpacity,setWidth, width , setHeight , height}) => {
     return (
         <>
             {
@@ -800,7 +800,33 @@ const DropDown = ({top , dropDown ,setBackgroundUrl,backgroundUrl ,setColorOpaci
                             />
                         </div>
                     </div>
-                    : ''
+                    : dropDown === 4 ?
+                        <div className='drop-down drop-down-4' style={{top}}>
+                            <div className='background-property'>
+                                <label htmlFor='height' >Height</label>
+                                <input 
+                                    type='range' 
+                                    id='height'
+                                    min="100" 
+                                    max="600"
+                                    value={height}
+                                    onChange={(e)=> {setHeight(e.target.value)}}
+                                />
+                            </div>
+                            <div className='background-property'>
+                                <label htmlFor='width' >Width</label>
+                                <input 
+                                    type='range' 
+                                    id='width'
+                                    min="100" 
+                                    max="964"
+                                    value={width}
+                                    onChange={(e)=> {setWidth(e.target.value)}}
+                                />
+                            </div>
+                        </div>
+                        :''
+                        
             }       
         </>
     )

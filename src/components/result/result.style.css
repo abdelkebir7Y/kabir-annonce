@@ -1,35 +1,29 @@
 .result {
-    width : 500px;
     border: 1px solid #bfbfbf;
     border-radius: 4px;
     background-color: white;
+    position: relative;
+}
+
+.background-image {
     background-repeat: no-repeat;
     background-size: cover;
     background-position : center;
-    box-shadow:
-        7.3px 6.8px 2.6px rgba(0, 0, 0, 0.156),
-        16.4px 15.1px 6.2px rgba(0, 0, 0, 0.176),
-        28.5px 26.4px 11.6px rgba(0, 0, 0, 0.187),
-        47.4px 43.8px 20.6px rgba(0, 0, 0, 0.196),
-        86.9px 80.3px 40.1px rgba(0, 0, 0, 0.203),
-        264px 244px 121px rgba(0, 0, 0, 0.21)
-    ;
-    position: relative;
 }
 
 .background-image , .background-color {
     position: absolute;
-    background-color : white ; 
     border-radius : 4px;
     top: 0%;
     bottom: 0%;
     left: 0%;
     right: 0%;
+    z-index: 111;
 }
 
 .content{
     position: relative;
-    min-height: 150px;
+    min-height: 100px;
     padding: 4px;
     z-index: 333;
 }
@@ -37,7 +31,7 @@
 .border-top , .border-bottom {
     position: relative;
     width: 100%;
-    z-index: 333;
+    z-index: 444;
 }
 
 .border-bottom {

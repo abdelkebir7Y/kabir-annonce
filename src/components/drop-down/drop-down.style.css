@@ -43,3 +43,9 @@ div.drop-down {
 .drop-down input[type = range] {
     max-width: 60%;
 }
+
+
+div.drop-down-4 {
+    width: 300px;
+    height: 80px;
+}
